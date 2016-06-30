@@ -1,0 +1,29 @@
+#header1 {
+  color: purple;
+}
+.header2 {
+  color: red;
+  font-family: Garamond;
+  font-size: 20px;
+}
+.pageheader {
+  background-color: yellow;
+  padding: 25px;
+  margin: 25px;
+  border: 25px dashed purple;
+}
+.pagebody {
+  background-color:purple;
+  color: yellow;
+  margin: 50px;
+  border: 20px solid violet;
+}
+
+a {
+  color: white;
+}
+.table {
+  background-color:violet;
+  padding: 20px;
+  margin: 20px;
+}

@@ -1,0 +1,65 @@
+.purplebox {
+  background-color: purple;
+  height: 50px;
+  float: left;
+  color: yellow;
+  width: 30%;
+  padding: 5%;
+  margin: 4%;
+  border: 1px solid black;
+}
+.yellowbox {
+  background-color: yellow;
+  height: 50px;
+  float: right;
+  color: purple;
+  width: 30%;
+  padding: 5%;
+  margin: 4%;
+  border: 1px solid purple;
+}
+.orangebox {
+  background-color: orange;
+  height: 75px;
+  width: 13%;
+  padding: 5%;
+  color: green;
+  float: left;
+  margin: 5%;
+}
+.greenbox {
+  background-color: green;
+  height: 75px;
+  float: left;
+  width: 13%;
+  padding: 5%;
+  margin: 5%;
+  color: orange;
+}
+.purplebox2 {
+  background-color: purple;
+  height: 75px;
+  float: right;
+  width: 14%;
+  padding: 5%;
+  margin: 5%;
+  color: violet;
+}
+.redbox {
+  background-color: red;
+  height: 125px;
+  float: left;
+  width: 10%;
+  padding: 2%;
+  margin: 5%;
+  color: blue;
+}
+.bluebox {
+  background-color: blue;
+  height: 125px;
+  float: left;
+  width: 10%;
+  padding: 2%;
+  margin: 5%;
+  color: red;
+}
